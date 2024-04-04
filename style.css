@@ -1,0 +1,111 @@
+
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  
+  header {
+    background-color: #ddd;
+    padding: 10px 20px;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  header h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  header h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+
+  
+  section {
+    border-radius: 0;
+    box-shadow: none;
+  }
+  
+  section h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+  }
+  
+  section p {
+    text-align: justify;
+  }
+  
+
+  
+  .titulo-secao {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .subtitulo-secao {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+
+  
+  #contato {
+    background-color: #ddd;
+    padding: 10px 20px;
+    border-radius: 0 0 10px 10px;
+  }
+  
+  #contato ul {
+    justify-content: space-between;
+  }
+  
+  #contato li {
+    margin: 0;
+  }
+  
+  
+  .imagem-perfil {
+    float: left;
+    margin-right: 20px;
+    width: 120px;
+    border-radius: 50%;
+  }
+  
+  .informacoes-pessoais {
+    margin-top: 20px;
+  }
+  
+  .informacoes-pessoais ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .informacoes-pessoais li {
+    margin-bottom: 5px;
+  }
+  
+  .titulo-contato {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  hr {
+    border-color: #ddd;
+    margin: 10px 0;
+  }
+  
